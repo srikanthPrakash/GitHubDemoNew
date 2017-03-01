@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void testImport(){
-        
+
+        int test = 5;
     }
 }
