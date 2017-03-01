@@ -14,5 +14,7 @@ public class MainActivity extends AppCompatActivity {
     private void testImport(){
 
         int test = 5;
+
+        int testBranch01 = 01;
     }
 }
